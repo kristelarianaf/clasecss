@@ -1,0 +1,33 @@
+/*importacion de la fuente Arimo*/
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+/*BACKGROUND*/
+body {
+    background-color: #a36fd4;
+}
+/*HEADER*/
+.headerh1{
+font-family: "Roboto", sans-serif;
+color: #0a0113;
+font-size: 50px;
+}
+/* LISTA DE MENU */
+.menunavegacion {
+    list-style: none;
+    text-decoration:none;
+}
+/*MAIN*/
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-size: 32px;
+    color: #383733;
+}
+h2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    color: indigo;
+}
+p {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    color: #000000;
+}
